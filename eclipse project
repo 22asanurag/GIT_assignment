@@ -1,7 +1,9 @@
-class Abc {
-    public static void main(String[] args) {
+class Abc
+ {
+    public static void main(String[] args) 
+{
         System.out.println("Welcome to Java!"); 
         System.out.println("checking for changes made");
+	System.out.println("adding one more line");
     }
-
 }
